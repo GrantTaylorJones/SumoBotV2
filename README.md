@@ -10,3 +10,7 @@ We are using new components other than the ultrasonic sensor.
 
 -Arduino Nano
 -Electronic Speed Controllers
+-Power Distribution Board
+-New Motors
+
+Have to use servo library for the ESC
