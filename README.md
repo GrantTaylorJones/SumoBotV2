@@ -1,16 +1,12 @@
 # SumoBotV2
-Automated Sumo Bot V2
+Arduino Sumo Bot Compeition 
 
 This iteration of the autonomous sumobot features some changes:
 
 Last time we used the default components from the elegoo v4 smart car
 tinyurl.com/smartcarv4 
 
-We are using new components other than the ultrasonic sensor.
-
--Arduino Nano
--Electronic Speed Controllers
+Changes from V1, that may require code changes:
+-Arduino Nano replaces Elegoo's proprietary version of the Arduino UNO Rev3
+-Electronic Speed Controllers (ESC)
 -Power Distribution Board
--New Motors
-
-Have to use servo library for the ESC
