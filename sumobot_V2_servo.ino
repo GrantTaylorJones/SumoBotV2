@@ -1,3 +1,4 @@
+//Have to use servo library for the speed controllers
 #include <Servo.h>
 
 //#define  module IO Pin
